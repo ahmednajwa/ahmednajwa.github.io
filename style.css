@@ -1,34 +1,30 @@
 
 body {
-   background-color:"Turquoise";
+    bgcolor="Turquoise";
    }
    
    img {
-`    align="middle" style="width:304px;height:228px;"> </center> 
-
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 304px;
+      height:228px;
+      margin-top: -250px;
+      margin-left: -250px;
 }
 
 
 h1{
 
-<align="center">
+text-align: center;
 
-<strong>
 
-<font face="Vladimir Script">
 
-  <font color="yellow">
+font-family:Vladimir Script;
 
-  <font size="60">
+  color:yellow;
 
-  Najwa Ahmed 
+  font-size: 60px;
 
-  </font>
-
-  </font> 
-
-  </font>
-
-  </strong>
 
   }
