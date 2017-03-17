@@ -1,0 +1,25 @@
+body {
+background-image: url ("good.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-posiotion: center center;
+background-attachment: fixed;
+   }
+   
+   img {
+     display: block;
+       
+      width: 150px;
+      height:108px;
+      margin-right: auto;
+      margin-left: auto;
+}
+
+
+p{
+text-align: center;
+font-family:Vladimir Script;
+color:yellow;
+font-size: 80px;
+    font-weight: bold;
+  }
