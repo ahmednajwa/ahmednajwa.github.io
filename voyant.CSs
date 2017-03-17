@@ -1,12 +1,12 @@
-body {
-background-image: url ("good.jpg");
-background-size: cover;
-background-repeat: no-repeat;
-background-posiotion: center center;
-background-attachment: fixed;
+
    }
-   
-   img {
+background-image: url("good.jpg" );
+background-size:cover;
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+}
+
      display: block;
        
       width: 150px;
