@@ -1,6 +1,6 @@
 
 body {
-background-image: url(" image 3.jpg");
+background-image: url("bck 4.png");
 background-size:cover;
 background-repeat: no-repeat;
 background-position: center center;
@@ -16,7 +16,7 @@ font-size: 65px;
 p{
 text-align: left;
 font-family:Times new roman;
-color:yellow;
+color:black;
 font-size: 30px;
     font-weight: bold;
   }
