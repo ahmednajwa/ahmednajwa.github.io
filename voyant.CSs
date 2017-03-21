@@ -1,6 +1,6 @@
 
 body {
-background-image: url("backgrnd 7.jpg");
+background-image: url("bck 8.jpg");
 background-size:cover;
 background-repeat: no-repeat;
 background-position: center center;
@@ -9,14 +9,14 @@ background-attachment: fixed;
 h{
 font-family:CG Omega;
 text-align:center;
-color: blue;
+color: yellow;
 font-size: 65px;
 }
      
 p{
 text-align: left;
 font-family:Times new roman;
-color:blue;
+color:yellow;
 font-size: 30px;
     font-weight: bold;
   }
